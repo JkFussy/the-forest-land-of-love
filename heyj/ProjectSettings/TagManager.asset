@@ -47,6 +47,9 @@ TagManager:
   - name: player
     uniqueID: 1677342003
     locked: 0
+  - name: levellight
+    uniqueID: 3884974475
+    locked: 0
   - name: UI
     uniqueID: 873388857
     locked: 0
