@@ -38,16 +38,13 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: level
+  - name: Background
     uniqueID: 3374152981
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: player
-    uniqueID: 1677342003
-    locked: 0
-  - name: levellight
+  - name: ParticleFx
     uniqueID: 3884974475
     locked: 0
   - name: UI

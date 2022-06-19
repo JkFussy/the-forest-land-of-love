@@ -1,0 +1,940 @@
+fileFormatVersion: 2
+guid: 157f4bebe70c34f47ba29817db7f3036
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: npc_status_SandTimer_Spin_0
+  - first:
+      213: 21300002
+    second: npc_status_SandTimer_Spin_1
+  - first:
+      213: 21300004
+    second: npc_status_SandTimer_Spin_2
+  - first:
+      213: 21300006
+    second: npc_status_SandTimer_Spin_3
+  - first:
+      213: 21300008
+    second: npc_status_SandTimer_Spin_4
+  - first:
+      213: 21300010
+    second: npc_status_SandTimer_Spin_5
+  - first:
+      213: 21300012
+    second: npc_status_SandTimer_Spin_6
+  - first:
+      213: 21300014
+    second: npc_status_SandTimer_Spin_7
+  - first:
+      213: 21300016
+    second: npc_status_SandTimer_Spin_8
+  - first:
+      213: 21300018
+    second: npc_status_SandTimer_Spin_9
+  - first:
+      213: 21300020
+    second: npc_status_SandTimer_Spin_10
+  - first:
+      213: 21300022
+    second: npc_status_SandTimer_Spin_11
+  - first:
+      213: 21300024
+    second: npc_status_SandTimer_Spin_12
+  - first:
+      213: 21300026
+    second: npc_status_SandTimer_Spin_13
+  - first:
+      213: 21300028
+    second: npc_status_SandTimer_Spin_14
+  - first:
+      213: 21300030
+    second: npc_status_SandTimer_Spin_15
+  - first:
+      213: 21300032
+    second: npc_status_SandTimer_Spin_16
+  - first:
+      213: 21300034
+    second: npc_status_SandTimer_Spin_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_0
+      rect:
+        serializedVersion: 2
+        x: 2.042908
+        y: 89.07612
+        width: 27.89608
+        height: 38.92388
+      alignment: 9
+      pivot: {x: 0.5540955, y: -0.02764674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.990948, y: -19.53806}
+        - {x: -13.99095, y: -18.53806}
+        - {x: -13.99095, y: 16.46194}
+        - {x: -9.990948, y: 19.46194}
+        - {x: 4.009052, y: 19.46194}
+        - {x: 14.00905, y: 12.46194}
+        - {x: 14.00905, y: -18.53806}
+        - {x: 13.00905, y: -19.53806}
+      physicsShape:
+      - - {x: -9.990947, y: 19.46194}
+        - {x: -13.99095, y: 14.46194}
+        - {x: -13.99095, y: -18.53806}
+        - {x: -7.990948, y: -19.53806}
+        - {x: 13.00905, y: -19.53806}
+        - {x: 14.00905, y: -18.53806}
+        - {x: 14.00905, y: 12.46194}
+        - {x: 2.009052, y: 19.46194}
+      - - {x: -2.990948, y: -1.538057}
+        - {x: -3.990948, y: -6.538057}
+        - {x: -1.990948, y: -5.538058}
+      - - {x: 6.009052, y: -1.538057}
+        - {x: 5.009052, y: -5.538058}
+        - {x: 7.009052, y: -6.538057}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf5ea706664d78bbc2f7f4e083dce5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_1
+      rect:
+        serializedVersion: 2
+        x: 37.01291
+        y: 89.07612
+        width: 27.92607
+        height: 38.92388
+      alignment: 9
+      pivot: {x: 0.5545745, y: -0.02764674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.02405, y: -19.53806}
+        - {x: -10.97595, y: -19.53806}
+        - {x: -10.97595, y: 10.46194}
+        - {x: -11.97595, y: 10.46194}
+        - {x: -13.97595, y: 13.46194}
+        - {x: -11.97595, y: 15.46194}
+        - {x: -10.97595, y: 15.46194}
+        - {x: -9.975949, y: 16.46194}
+        - {x: -8.975949, y: 16.46194}
+        - {x: -9.975949, y: 17.46194}
+        - {x: -9.975949, y: 19.46194}
+        - {x: -4.975949, y: 19.46194}
+        - {x: -4.975949, y: 17.46194}
+        - {x: 6.024051, y: 17.46194}
+        - {x: 14.02405, y: 10.46194}
+      physicsShape:
+      - - {x: -6.975949, y: 17.46194}
+        - {x: -9.975948, y: 16.46194}
+        - {x: -10.97595, y: 14.46194}
+        - {x: -10.97595, y: -19.53806}
+        - {x: 14.02405, y: -19.53806}
+        - {x: 14.02405, y: 10.46194}
+        - {x: 6.024051, y: 17.46194}
+      - - {x: -2.975949, y: -1.538057}
+        - {x: -3.975949, y: -6.538057}
+        - {x: -1.975949, y: -5.538058}
+      - - {x: 6.024051, y: -1.538057}
+        - {x: 5.024051, y: -5.538058}
+        - {x: 7.024051, y: -6.538057}
+      - - {x: -11.97595, y: 10.46194}
+        - {x: -8.975949, y: 11.46194}
+        - {x: -8.975949, y: 14.46194}
+        - {x: -11.97595, y: 15.46194}
+        - {x: -13.97595, y: 13.46194}
+      - - {x: -7.975949, y: 15.46194}
+        - {x: -4.975949, y: 16.46194}
+        - {x: -4.975949, y: 19.46194}
+        - {x: -9.975948, y: 19.46194}
+        - {x: -9.975948, y: 17.46194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b7a96135e4875b43583a7e480ca7a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_2
+      rect:
+        serializedVersion: 2
+        x: 75.06306
+        y: 89.07612
+        width: 24.87592
+        height: 38.92388
+      alignment: 9
+      pivot: {x: 0.4999588, y: -0.02764674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.501024, y: 16.46194}
+        - {x: -11.50102, y: 19.46194}
+        - {x: -6.501024, y: 19.46194}
+        - {x: -6.501024, y: 17.46194}
+      - - {x: 12.49898, y: -19.53806}
+        - {x: -12.50102, y: -19.53806}
+        - {x: -12.50102, y: 12.46194}
+        - {x: -11.50102, y: 13.46194}
+        - {x: 10.49898, y: 13.46194}
+        - {x: 12.49898, y: 12.46194}
+      physicsShape:
+      - - {x: -11.50102, y: 13.46194}
+        - {x: -12.50102, y: 12.46194}
+        - {x: -12.50102, y: -19.53806}
+        - {x: 12.49898, y: -19.53806}
+        - {x: 12.49898, y: 12.46194}
+        - {x: 10.49898, y: 13.46194}
+      - - {x: -4.501024, y: -1.538057}
+        - {x: -5.501024, y: -6.538057}
+        - {x: -3.501024, y: -5.538058}
+      - - {x: 4.498976, y: -1.538057}
+        - {x: 3.498976, y: -5.538058}
+        - {x: 5.498976, y: -6.538057}
+      - - {x: -6.501024, y: 17.46194}
+        - {x: -6.501024, y: 19.46194}
+        - {x: -11.50102, y: 19.46194}
+        - {x: -9.501024, y: 16.46194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b89455303a4a9cb1c5f364dd0f4504
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_3
+      rect:
+        serializedVersion: 2
+        x: 110.0631
+        y: 89.07612
+        width: 24.87592
+        height: 32.84776
+      alignment: 9
+      pivot: {x: 0.4999588, y: -0.03276079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.49898, y: -16.5}
+        - {x: -12.50102, y: -16.5}
+        - {x: -12.50102, y: 15.5}
+        - {x: -11.50102, y: 16.5}
+        - {x: 10.49898, y: 16.5}
+        - {x: 12.49898, y: 15.5}
+      physicsShape:
+      - - {x: -11.50102, y: 16.5}
+        - {x: -12.50102, y: 15.5}
+        - {x: -12.50102, y: -16.5}
+        - {x: 12.49898, y: -16.5}
+        - {x: 12.49898, y: 15.5}
+        - {x: 10.49898, y: 16.5}
+      - - {x: -4.501024, y: 1.500004}
+        - {x: -5.501024, y: -3.499996}
+        - {x: -3.501024, y: -2.499997}
+      - - {x: 4.498976, y: 1.500004}
+        - {x: 3.498976, y: -2.499997}
+        - {x: 5.498976, y: -3.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f836f0d5c4f436f94393cfc62d3a16e
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_4
+      rect:
+        serializedVersion: 2
+        x: 145.0631
+        y: 89.07612
+        width: 24.87592
+        height: 32.84776
+      alignment: 9
+      pivot: {x: 0.4999588, y: -0.03276079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.49898, y: -16.5}
+        - {x: -12.50102, y: -16.5}
+        - {x: -12.50102, y: 15.5}
+        - {x: -11.50102, y: 16.5}
+        - {x: 10.49898, y: 16.5}
+        - {x: 12.49898, y: 15.5}
+      physicsShape:
+      - - {x: -11.50102, y: 16.5}
+        - {x: -12.50102, y: 15.5}
+        - {x: -12.50102, y: -16.5}
+        - {x: 12.49898, y: -16.5}
+        - {x: 12.49898, y: 15.5}
+        - {x: 10.49898, y: 16.5}
+      - - {x: -4.501024, y: 1.500004}
+        - {x: -5.501024, y: -3.499996}
+        - {x: -3.501024, y: -2.499997}
+      - - {x: 4.498976, y: 1.500004}
+        - {x: 3.498976, y: -2.499997}
+        - {x: 5.498976, y: -3.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a92e963034aa587f487ee923082dd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_5
+      rect:
+        serializedVersion: 2
+        x: 180.0631
+        y: 89.07612
+        width: 24.87592
+        height: 32.84776
+      alignment: 9
+      pivot: {x: 0.4999588, y: -0.03276079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.49898, y: -16.5}
+        - {x: -12.50102, y: -16.5}
+        - {x: -12.50102, y: 15.5}
+        - {x: -11.50102, y: 16.5}
+        - {x: 10.49898, y: 16.5}
+        - {x: 12.49898, y: 15.5}
+      physicsShape:
+      - - {x: -11.50102, y: 16.5}
+        - {x: -12.50102, y: 15.5}
+        - {x: -12.50102, y: -16.5}
+        - {x: 12.49898, y: -16.5}
+        - {x: 12.49898, y: 15.5}
+        - {x: 10.49898, y: 16.5}
+      - - {x: -4.501024, y: 1.500004}
+        - {x: -5.501024, y: -3.499996}
+        - {x: -3.501024, y: -2.499997}
+      - - {x: 4.498976, y: 1.500004}
+        - {x: 3.498976, y: -2.499997}
+        - {x: 5.498976, y: -3.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764c888315904c3d90d88396ae42585d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_6
+      rect:
+        serializedVersion: 2
+        x: 215.0631
+        y: 89.07612
+        width: 24.87592
+        height: 32.84776
+      alignment: 9
+      pivot: {x: 0.4999588, y: -0.03276079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.49898, y: -16.5}
+        - {x: -12.50102, y: -16.5}
+        - {x: -12.50102, y: 15.5}
+        - {x: -11.50102, y: 16.5}
+        - {x: 10.49898, y: 16.5}
+        - {x: 12.49898, y: 15.5}
+      physicsShape:
+      - - {x: -11.50102, y: 16.5}
+        - {x: -12.50102, y: 15.5}
+        - {x: -12.50102, y: -16.5}
+        - {x: 12.49898, y: -16.5}
+        - {x: 12.49898, y: 15.5}
+        - {x: 10.49898, y: 16.5}
+      - - {x: -4.501024, y: 1.500004}
+        - {x: -5.501024, y: -3.499996}
+        - {x: -3.501024, y: -2.499997}
+      - - {x: 4.498976, y: 1.500004}
+        - {x: 3.498976, y: -2.499997}
+        - {x: 5.498976, y: -3.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53750246fe046aa8dd4a470c586e266
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_7
+      rect:
+        serializedVersion: 2
+        x: 5.063066
+        y: 49.07612
+        width: 24.87592
+        height: 32.84776
+      alignment: 9
+      pivot: {x: 0.4999588, y: -0.03276091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.49897, y: -16.5}
+        - {x: -12.50103, y: -16.5}
+        - {x: -12.50103, y: 15.5}
+        - {x: -11.50103, y: 16.5}
+        - {x: 10.49897, y: 16.5}
+        - {x: 12.49897, y: 15.5}
+      physicsShape:
+      - - {x: -11.50103, y: 16.5}
+        - {x: -12.50103, y: 15.5}
+        - {x: -12.50103, y: -16.5}
+        - {x: 12.49897, y: -16.5}
+        - {x: 12.49897, y: 15.5}
+        - {x: 10.49897, y: 16.5}
+      - - {x: -4.501026, y: 1.5}
+        - {x: -5.501026, y: -3.5}
+        - {x: -3.501026, y: -2.500001}
+      - - {x: 4.498974, y: 1.5}
+        - {x: 3.498974, y: -2.500001}
+        - {x: 5.498974, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c2595564194697a3b0421e6c0f61df
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48.07612
+        width: 35
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.5, y: -0.002184424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -17.5}
+        - {x: -17.5, y: -2.499999}
+        - {x: -17.5, y: 5.5}
+        - {x: -6.5, y: 17.5}
+        - {x: -2.5, y: 17.5}
+        - {x: 7.5, y: 10.5}
+        - {x: 17.5, y: 2.5}
+        - {x: 17.5, y: -6.5}
+        - {x: 4.5, y: -17.5}
+      physicsShape:
+      - - {x: -2.5, y: 17.5}
+        - {x: -6.5, y: 17.5}
+        - {x: -17.5, y: 5.499998}
+        - {x: -17.5, y: -2.500001}
+        - {x: -0.5, y: -17.5}
+        - {x: 4.5, y: -17.5}
+        - {x: 17.5, y: -6.5}
+        - {x: 17.5, y: 2.499998}
+        - {x: 7.5, y: 10.5}
+      - - {x: -4.5, y: -1.5}
+        - {x: -1.5, y: -4.5}
+        - {x: -1.5, y: -3.5}
+      - - {x: 1.5, y: 4.5}
+        - {x: 3.5, y: 2.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20957dd2ae43938b10853d736bec4f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48.07612
+        width: 35
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.5, y: -0.002184424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -14.5}
+        - {x: -17.5, y: -3.5}
+        - {x: -17.5, y: 10.5}
+        - {x: -11.5, y: 17.5}
+        - {x: -1.5, y: 17.5}
+        - {x: 17.5, y: 5.5}
+        - {x: 17.5, y: -4.5}
+        - {x: 9.5, y: -17.5}
+        - {x: -0.5, y: -17.5}
+      physicsShape:
+      - - {x: -11.5, y: 17.5}
+        - {x: -17.5, y: 10.5}
+        - {x: -17.5, y: -3.5}
+        - {x: -10.5, y: -14.5}
+        - {x: -0.5, y: -17.5}
+        - {x: 9.5, y: -17.5}
+        - {x: 17.5, y: -4.5}
+        - {x: 17.5, y: 5.499998}
+        - {x: -1.5, y: 17.5}
+      - - {x: 4.5, y: 2.499998}
+        - {x: 2.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d0b8248d7475eab36437533871219
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_10
+      rect:
+        serializedVersion: 2
+        x: 106.0513
+        y: 48.07612
+        width: 33.87256
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.485605, y: -0.002184424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.9876, y: -17.5}
+        - {x: -16.9876, y: -4.5}
+        - {x: -16.9876, y: 17.5}
+        - {x: 10.0124, y: 17.5}
+        - {x: 17.0124, y: 0.5}
+        - {x: 17.0124, y: -12.5}
+        - {x: 11.0124, y: -16.5}
+        - {x: -1.987597, y: -17.5}
+      physicsShape:
+      - - {x: -6.987597, y: 17.5}
+        - {x: -16.9876, y: 14.5}
+        - {x: -16.9876, y: 0.5}
+        - {x: -9.987597, y: -14.5}
+        - {x: -7.987596, y: -17.5}
+        - {x: -1.987597, y: -17.5}
+        - {x: 11.0124, y: -16.5}
+        - {x: 17.0124, y: -12.5}
+        - {x: 17.0124, y: 0.5}
+        - {x: 10.0124, y: 17.5}
+      - - {x: -4.987597, y: 0.5}
+        - {x: -3.987597, y: -0.5}
+        - {x: -3.987597, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b25c642595e4dcead8d62c799a5c1b7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_11
+      rect:
+        serializedVersion: 2
+        x: 141.0267
+        y: 49.02675
+        width: 33.89713
+        height: 33.9465
+      alignment: 9
+      pivot: {x: 0.4859778, y: -0.0302462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.97531, y: -17}
+        - {x: -16.97531, y: -12}
+        - {x: -16.97531, y: 17}
+        - {x: 17.02469, y: 17}
+        - {x: 17.02469, y: -16}
+        - {x: 13.02469, y: -17}
+      physicsShape:
+      - - {x: -16.97531, y: 17}
+        - {x: -16.97531, y: -12}
+        - {x: -11.97531, y: -17}
+        - {x: 13.02469, y: -17}
+        - {x: 17.02469, y: -16}
+        - {x: 17.02469, y: 17}
+      - - {x: 3.024689, y: -5}
+        - {x: 1.024689, y: -4}
+        - {x: 0.02468872, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bfa40615a14492b756c5e7a94c941b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_12
+      rect:
+        serializedVersion: 2
+        x: 175.0267
+        y: 49.02675
+        width: 33.92193
+        height: 33.89713
+      alignment: 9
+      pivot: {x: 0.5151019, y: -0.03029025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.987715, y: -16.97532}
+        - {x: -16.98771, y: -9.975315}
+        - {x: -16.98771, y: 14.02468}
+        - {x: -10.98771, y: 17.02468}
+        - {x: 14.01229, y: 17.02468}
+        - {x: 17.01229, y: 12.02469}
+        - {x: 17.01229, y: -15.97532}
+        - {x: 12.01229, y: -16.97532}
+      physicsShape:
+      - - {x: -10.98771, y: 17.02468}
+        - {x: -16.98771, y: 14.02468}
+        - {x: -16.98771, y: -9.975315}
+        - {x: -9.987715, y: -16.97532}
+        - {x: 12.01228, y: -16.97532}
+        - {x: 17.01229, y: -15.97532}
+        - {x: 17.01229, y: 12.02468}
+        - {x: 14.01228, y: 17.02468}
+      - - {x: -3.987715, y: 1.024685}
+        - {x: -4.987715, y: -0.9753151}
+        - {x: -4.987715, y: -1.975315}
+        - {x: -3.987715, y: -0.9753151}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4126c2082fd4de4a05948d630d3715d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 48
+        width: 35
+        height: 35.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -17.96194}
+        - {x: -17.5, y: -5.961939}
+        - {x: -17.5, y: 1.038061}
+        - {x: -5.5, y: 16.03806}
+        - {x: -3.5, y: 18.03806}
+        - {x: 7.5, y: 18.03806}
+        - {x: 12.5, y: 16.03806}
+        - {x: 17.5, y: 7.038061}
+        - {x: 17.5, y: -3.961939}
+        - {x: 8.5, y: -15.96194}
+        - {x: 2.5, y: -17.96194}
+      physicsShape:
+      - - {x: 12.5, y: 16.03806}
+        - {x: 7.5, y: 18.03806}
+        - {x: -3.5, y: 18.03806}
+        - {x: -5.5, y: 16.03806}
+        - {x: -17.5, y: 1.038061}
+        - {x: -17.5, y: -5.961939}
+        - {x: -5.5, y: -17.96194}
+        - {x: 2.5, y: -17.96194}
+        - {x: 8.5, y: -15.96194}
+        - {x: 17.5, y: -3.961939}
+        - {x: 17.5, y: 7.038061}
+      - - {x: 3.5, y: -2.96194}
+        - {x: 4.5, y: -1.961939}
+        - {x: 1.5, y: -4.961939}
+        - {x: 2.5, y: -4.961939}
+      - - {x: -2.5, y: 3.038061}
+        - {x: -3.5, y: 2.038059}
+        - {x: -2.5, y: 2.038059}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8cf6d719404a5b9b10d3b8d39fa1ba
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8.07612
+        width: 35
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.5, y: -0.00218437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -17.5}
+        - {x: -17.5, y: -4.499998}
+        - {x: -17.5, y: 4.500002}
+        - {x: -0.5, y: 17.5}
+        - {x: 8.5, y: 17.5}
+        - {x: 13.5, y: 15.5}
+        - {x: 17.5, y: 6.500002}
+        - {x: 17.5, y: -3.499998}
+        - {x: -2.5, y: -17.5}
+      physicsShape:
+      - - {x: 8.5, y: 17.5}
+        - {x: -0.5, y: 17.5}
+        - {x: -17.5, y: 4.500002}
+        - {x: -17.5, y: -4.499998}
+        - {x: -7.5, y: -17.5}
+        - {x: -2.5, y: -17.5}
+        - {x: 17.5, y: -3.499998}
+        - {x: 17.5, y: 6.500002}
+        - {x: 13.5, y: 15.5}
+      - - {x: -2.5, y: 2.5}
+        - {x: -1.5, y: 3.500002}
+        - {x: -4.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd2a1c5359e46c6a7439c9179f968a6
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8.07612
+        width: 35
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.5, y: -0.00218437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -17.5}
+        - {x: -17.5, y: -4.499998}
+        - {x: -17.5, y: 4.500002}
+        - {x: -0.5, y: 17.5}
+        - {x: 8.5, y: 17.5}
+        - {x: 13.5, y: 15.5}
+        - {x: 17.5, y: 6.500002}
+        - {x: 17.5, y: -3.499998}
+        - {x: -2.5, y: -17.5}
+      physicsShape:
+      - - {x: 8.5, y: 17.5}
+        - {x: -0.5, y: 17.5}
+        - {x: -17.5, y: 4.500002}
+        - {x: -17.5, y: -4.499998}
+        - {x: -7.5, y: -17.5}
+        - {x: -2.5, y: -17.5}
+        - {x: 17.5, y: -3.499998}
+        - {x: 17.5, y: 6.500002}
+        - {x: 13.5, y: 15.5}
+      - - {x: -2.5, y: 2.5}
+        - {x: -1.5, y: 3.500002}
+        - {x: -4.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e6e548ff1c4e77bfb7620d5ecb4cb4
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8.07612
+        width: 35
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.5, y: -0.00218437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -17.5}
+        - {x: -17.5, y: -5.499998}
+        - {x: -17.5, y: 4.500002}
+        - {x: 2.5, y: 17.5}
+        - {x: 6.5, y: 17.5}
+        - {x: 17.5, y: 10.5}
+        - {x: 17.5, y: -1.499998}
+        - {x: 5.5, y: -17.5}
+      physicsShape:
+      - - {x: 2.5, y: 17.5}
+        - {x: -17.5, y: 4.500002}
+        - {x: -17.5, y: -5.499998}
+        - {x: -8.5, y: -17.5}
+        - {x: 5.5, y: -17.5}
+        - {x: 17.5, y: -1.499998}
+        - {x: 17.5, y: 10.5}
+        - {x: 6.5, y: 17.5}
+      - - {x: 2.5, y: -3.499998}
+        - {x: 4.5, y: -1.499998}
+        - {x: 1.5, y: -4.499998}
+        - {x: 2.5, y: -4.499998}
+      - - {x: -1.5, y: 4.500002}
+        - {x: -3.5, y: 2.5}
+        - {x: -2.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205f55b32f6e4d6393a47246dcd42684
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_status_SandTimer_Spin_17
+      rect:
+        serializedVersion: 2
+        x: 108.0429
+        y: 9.063066
+        width: 27.90939
+        height: 33.92402
+      alignment: 9
+      pivot: {x: 0.5180011, y: -0.03133669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.997601, y: -14.02508}
+        - {x: -13.9976, y: -5.025076}
+        - {x: -13.9976, y: 14.97492}
+        - {x: -11.9976, y: 16.97492}
+        - {x: 11.0024, y: 16.97492}
+        - {x: 14.0024, y: 15.97492}
+        - {x: 14.0024, y: -13.02508}
+        - {x: 12.0024, y: -16.02508}
+        - {x: 0.002399445, y: -17.02508}
+        - {x: -7.997601, y: -17.02508}
+      physicsShape:
+      - - {x: 11.0024, y: 16.97492}
+        - {x: -11.9976, y: 16.97492}
+        - {x: -13.9976, y: 14.97492}
+        - {x: -13.9976, y: -5.025076}
+        - {x: -9.997601, y: -14.02508}
+        - {x: -7.997601, y: -17.02508}
+        - {x: 0.002399445, y: -17.02508}
+        - {x: 12.0024, y: -16.02508}
+        - {x: 14.0024, y: -13.02508}
+        - {x: 14.0024, y: 15.97492}
+      - - {x: 4.002399, y: 1.974922}
+        - {x: 5.002399, y: -1.025076}
+        - {x: 5.002399, y: -0.02507591}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f94d922fb1146608deba25bae7fec7d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      npc_status_SandTimer_Spin_1: 21300002
+      npc_status_SandTimer_Spin_11: 21300022
+      npc_status_SandTimer_Spin_2: 21300004
+      npc_status_SandTimer_Spin_9: 21300018
+      npc_status_SandTimer_Spin_7: 21300014
+      npc_status_SandTimer_Spin_13: 21300026
+      npc_status_SandTimer_Spin_14: 21300028
+      npc_status_SandTimer_Spin_17: 21300034
+      npc_status_SandTimer_Spin_15: 21300030
+      npc_status_SandTimer_Spin_16: 21300032
+      npc_status_SandTimer_Spin_4: 21300008
+      npc_status_SandTimer_Spin_12: 21300024
+      npc_status_SandTimer_Spin_0: 21300000
+      npc_status_SandTimer_Spin_6: 21300012
+      npc_status_SandTimer_Spin_5: 21300010
+      npc_status_SandTimer_Spin_10: 21300020
+      npc_status_SandTimer_Spin_8: 21300016
+      npc_status_SandTimer_Spin_3: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
