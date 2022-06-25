@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: 099ace79c1ac1a9468320cd0b5d08c76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: WalkCyclesWIPshadow_Down_0
+  - first:
+      213: 21300002
+    second: WalkCyclesWIPshadow_Down_1
+  - first:
+      213: 21300004
+    second: WalkCyclesWIPshadow_Down_2
+  - first:
+      213: 21300006
+    second: WalkCyclesWIPshadow_Down_3
+  - first:
+      213: 21300008
+    second: WalkCyclesWIPshadow_Down_4
+  - first:
+      213: 21300010
+    second: WalkCyclesWIPshadow_Down_5
+  - first:
+      213: 21300012
+    second: WalkCyclesWIPshadow_Down_6
+  - first:
+      213: 21300014
+    second: WalkCyclesWIPshadow_Down_7
+  - first:
+      213: 21300016
+    second: WalkCyclesWIPshadow_Intro_DownRest_0
+  - first:
+      213: 21300018
+    second: WalkCyclesWIPshadow_Intro_DownRest_1
+  - first:
+      213: 21300020
+    second: WalkCyclesWIPshadow_Down_Rest_0
+  - first:
+      213: 21300022
+    second: WalkCyclesWIPshadow_Side_0
+  - first:
+      213: 21300024
+    second: WalkCyclesWIPshadow_Side_1
+  - first:
+      213: 21300026
+    second: WalkCyclesWIPshadow_Side_2
+  - first:
+      213: 21300028
+    second: WalkCyclesWIPshadow_Side_3
+  - first:
+      213: 21300030
+    second: WalkCyclesWIPshadow_Side_4
+  - first:
+      213: 21300032
+    second: WalkCyclesWIPshadow_Side_5
+  - first:
+      213: 21300034
+    second: WalkCyclesWIPshadow_Side_6
+  - first:
+      213: 21300036
+    second: WalkCyclesWIPshadow_Side_7
+  - first:
+      213: 21300038
+    second: WalkCyclesWIPshadow_Intro_Side_Rest_0
+  - first:
+      213: 21300040
+    second: WalkCyclesWIPshadow_Intro_Side_Rest_1
+  - first:
+      213: 21300042
+    second: WalkCyclesWIPshadow_Side_Rest_0
+  - first:
+      213: 21300044
+    second: WalkCyclesWIPshadow_Up_0
+  - first:
+      213: 21300046
+    second: WalkCyclesWIPshadow_Up_1
+  - first:
+      213: 21300048
+    second: WalkCyclesWIPshadow_Up_2
+  - first:
+      213: 21300050
+    second: WalkCyclesWIPshadow_Up_3
+  - first:
+      213: 21300052
+    second: WalkCyclesWIPshadow_Up_4
+  - first:
+      213: 21300054
+    second: WalkCyclesWIPshadow_Up_5
+  - first:
+      213: 21300056
+    second: WalkCyclesWIPshadow_Up_6
+  - first:
+      213: 21300058
+    second: WalkCyclesWIPshadow_Up_7
+  - first:
+      213: 21300060
+    second: WalkCyclesWIPshadow_Intro_Up_Rest_0
+  - first:
+      213: 21300062
+    second: WalkCyclesWIPshadow_Intro_Up_Rest_1
+  - first:
+      213: 21300064
+    second: WalkCyclesWIPshadow_Up_Rest_0
+  - first:
+      213: 21300066
+    second: WalkCyclesWIPshadow_Intro_Idle_0
+  - first:
+      213: 21300068
+    second: WalkCyclesWIPshadow_Intro_Idle_1
+  - first:
+      213: 21300070
+    second: WalkCyclesWIPshadow_Intro_Idle_2
+  - first:
+      213: 21300072
+    second: WalkCyclesWIPshadow_Intro_Idle_3
+  - first:
+      213: 21300074
+    second: WalkCyclesWIPshadow_Intro_Idle_4
+  - first:
+      213: 21300076
+    second: WalkCyclesWIPshadow_Idle_0
+  - first:
+      213: 21300078
+    second: WalkCyclesWIPshadow_Idle_1
+  - first:
+      213: 21300080
+    second: WalkCyclesWIPshadow_Idle_2
+  - first:
+      213: 21300082
+    second: WalkCyclesWIPshadow_Idle_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_0
+      rect:
+        serializedVersion: 2
+        x: 10.07612
+        y: 439.0761
+        width: 49.84776
+        height: 17.84776
+      alignment: 9
+      pivot: {x: 0.5200611, y: -0.3404411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -7.99999}
+        - {x: -25, y: -2.99999}
+        - {x: -25, y: 2.00001}
+        - {x: -19, y: 8.00001}
+        - {x: -13, y: 9.00001}
+        - {x: 15, y: 9.00001}
+        - {x: 22, y: 7.00001}
+        - {x: 25, y: 1.00001}
+        - {x: 25, y: -2.99999}
+        - {x: 20, y: -5.99999}
+        - {x: 13, y: -8.99999}
+        - {x: -15, y: -8.99999}
+      physicsShape:
+      - - {x: 22, y: 7.00001}
+        - {x: 15, y: 9.00001}
+        - {x: -13, y: 9.00001}
+        - {x: -19, y: 8.000008}
+        - {x: -25, y: 2.00001}
+        - {x: -25, y: -2.99999}
+        - {x: -18, y: -7.99999}
+        - {x: -15, y: -8.99999}
+        - {x: 13, y: -8.99999}
+        - {x: 20, y: -5.99999}
+        - {x: 25, y: -2.99999}
+        - {x: 25, y: 1.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30eab5162fb4d4ea0c33b44f7da0dc4
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_1
+      rect:
+        serializedVersion: 2
+        x: 82.07612
+        y: 440.0761
+        width: 50.84776
+        height: 17.84776
+      alignment: 9
+      pivot: {x: 0.5098333, y: -0.3964705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -8.99999}
+        - {x: -25.5, y: -3.99999}
+        - {x: -25.5, y: 3.00001}
+        - {x: -22.5, y: 9.00001}
+        - {x: 25.5, y: 9.00001}
+        - {x: 25.5, y: -4.99999}
+        - {x: 22.5, y: -8.99999}
+      physicsShape:
+      - - {x: -22.49999, y: 9.00001}
+        - {x: -25.5, y: 3.00001}
+        - {x: -25.5, y: -3.99999}
+        - {x: -22.49999, y: -8.99999}
+        - {x: 22.5, y: -8.99999}
+        - {x: 25.5, y: -4.99999}
+        - {x: 25.5, y: 9.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bab08c845c4f01919538acb6105d09
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_2
+      rect:
+        serializedVersion: 2
+        x: 154.0761
+        y: 441.0761
+        width: 51.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.4999999, y: -0.4793582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -5.49999}
+        - {x: -26, y: -1.49999}
+        - {x: -26, y: 4.50001}
+        - {x: -24, y: 8.50001}
+        - {x: 26, y: 8.50001}
+        - {x: 26, y: -2.49999}
+        - {x: 22, y: -5.49999}
+        - {x: 14, y: -8.49999}
+        - {x: -19, y: -8.49999}
+      physicsShape:
+      - - {x: 26, y: 8.50001}
+        - {x: -24, y: 8.50001}
+        - {x: -26, y: 4.50001}
+        - {x: -26, y: -1.499991}
+        - {x: -24, y: -5.49999}
+        - {x: -19, y: -8.49999}
+        - {x: 14, y: -8.49999}
+        - {x: 22, y: -5.49999}
+        - {x: 26, y: -2.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a1251f39764ca4910e71e251e60da2
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_3
+      rect:
+        serializedVersion: 2
+        x: 227.0761
+        y: 440.0761
+        width: 50.84776
+        height: 17.84776
+      alignment: 9
+      pivot: {x: 0.4901667, y: -0.3964705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -8.99999}
+        - {x: -25.5, y: -3.99999}
+        - {x: -25.5, y: 3.00001}
+        - {x: -22.5, y: 9.00001}
+        - {x: 25.5, y: 9.00001}
+        - {x: 25.5, y: -4.99999}
+        - {x: 22.5, y: -8.99999}
+      physicsShape:
+      - - {x: -22.5, y: 9.00001}
+        - {x: -25.5, y: 3.00001}
+        - {x: -25.5, y: -3.99999}
+        - {x: -22.5, y: -8.99999}
+        - {x: 22.49999, y: -8.99999}
+        - {x: 25.5, y: -4.99999}
+        - {x: 25.5, y: 9.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed3a2fc3a8047feab42f1a7ec7d8eb5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_4
+      rect:
+        serializedVersion: 2
+        x: 300.0761
+        y: 439.0761
+        width: 49.84776
+        height: 17.84776
+      alignment: 9
+      pivot: {x: 0.4799391, y: -0.3404411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.99999, y: -8.99999}
+        - {x: -24.99999, y: -5.99999}
+        - {x: -24.99999, y: 3.00001}
+        - {x: -21.99999, y: 9.00001}
+        - {x: 25.00001, y: 9.00001}
+        - {x: 25.00001, y: -5.99999}
+        - {x: 16.00001, y: -8.99999}
+      physicsShape:
+      - - {x: -24.99999, y: -5.99999}
+        - {x: -19.99999, y: -8.99999}
+        - {x: 16.00001, y: -8.99999}
+        - {x: 25.00001, y: -5.99999}
+        - {x: 25.00001, y: 9.00001}
+        - {x: -21.99999, y: 9.00001}
+        - {x: -24.99999, y: 3.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd089f411ab42b2a61659fd98ba7a4d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_5
+      rect:
+        serializedVersion: 2
+        x: 371.0761
+        y: 440.0761
+        width: 50.84776
+        height: 17.84776
+      alignment: 9
+      pivot: {x: 0.490167, y: -0.3964705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.49999, y: -8.99999}
+        - {x: -25.49999, y: -3.99999}
+        - {x: -25.49999, y: 3.00001}
+        - {x: -22.49999, y: 9.00001}
+        - {x: 25.50001, y: 9.00001}
+        - {x: 25.50001, y: -4.99999}
+        - {x: 22.50001, y: -8.99999}
+      physicsShape:
+      - - {x: -22.49999, y: 9.00001}
+        - {x: -25.49999, y: 3.00001}
+        - {x: -25.49999, y: -3.99999}
+        - {x: -22.49999, y: -8.99999}
+        - {x: 22.50001, y: -8.99999}
+        - {x: 25.50001, y: -4.99999}
+        - {x: 25.50001, y: 9.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b25ad8716044a68d40d80cf57b3c33
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_6
+      rect:
+        serializedVersion: 2
+        x: 442.0761
+        y: 441.0761
+        width: 51.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5000002, y: -0.4793582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.99999, y: -5.49999}
+        - {x: -25.99999, y: -1.49999}
+        - {x: -25.99999, y: 4.50001}
+        - {x: -23.99999, y: 8.50001}
+        - {x: 26.00001, y: 8.50001}
+        - {x: 26.00001, y: -2.49999}
+        - {x: 22.00001, y: -5.49999}
+        - {x: 14.00001, y: -8.49999}
+        - {x: -18.99999, y: -8.49999}
+      physicsShape:
+      - - {x: 26.00001, y: 8.50001}
+        - {x: -23.99999, y: 8.50001}
+        - {x: -25.99999, y: 4.50001}
+        - {x: -25.99999, y: -1.499991}
+        - {x: -23.99999, y: -5.49999}
+        - {x: -18.99999, y: -8.49999}
+        - {x: 14.00001, y: -8.49999}
+        - {x: 22.00001, y: -5.49999}
+        - {x: 26.00001, y: -2.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b475857bbb48e99e275eeeef2fb414
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_7
+      rect:
+        serializedVersion: 2
+        x: 10.07612
+        y: 361.0761
+        width: 50.84776
+        height: 17.84776
+      alignment: 9
+      pivot: {x: 0.5098333, y: -0.3964705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -8.99999}
+        - {x: -25.5, y: -3.99999}
+        - {x: -25.5, y: 3.00001}
+        - {x: -22.5, y: 9.00001}
+        - {x: 25.5, y: 9.00001}
+        - {x: 25.5, y: -4.99999}
+        - {x: 22.5, y: -8.99999}
+      physicsShape:
+      - - {x: -22.49999, y: 9.00001}
+        - {x: -25.5, y: 3.00001}
+        - {x: -25.5, y: -3.99999}
+        - {x: -22.49999, y: -8.99999}
+        - {x: 22.5, y: -8.99999}
+        - {x: 25.5, y: -4.99999}
+        - {x: 25.5, y: 9.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3900a2907b459381124e7227b856c5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_DownRest_0
+      rect:
+        serializedVersion: 2
+        x: 81.07612
+        y: 362.0761
+        width: 53.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5000001, y: -0.4793582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -7.49999}
+        - {x: -27, y: -3.49999}
+        - {x: -27, y: 2.50001}
+        - {x: -24, y: 8.50001}
+        - {x: 27.00001, y: 8.50001}
+        - {x: 27.00001, y: -3.49999}
+        - {x: 17, y: -8.49999}
+        - {x: -16, y: -8.49999}
+      physicsShape:
+      - - {x: -24, y: 8.50001}
+        - {x: -26.99999, y: 2.50001}
+        - {x: -26.99999, y: -3.49999}
+        - {x: -19.99999, y: -7.49999}
+        - {x: -16, y: -8.49999}
+        - {x: 17, y: -8.49999}
+        - {x: 27, y: -3.49999}
+        - {x: 27, y: 8.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ce450ec7c445e7b695c3c5d6536c0d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_DownRest_1
+      rect:
+        serializedVersion: 2
+        x: 154.0761
+        y: 362.0761
+        width: 51.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.4999999, y: -0.4793582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -5.49999}
+        - {x: -26, y: -1.49999}
+        - {x: -26, y: 4.50001}
+        - {x: -24, y: 8.50001}
+        - {x: 26, y: 8.50001}
+        - {x: 26, y: -2.49999}
+        - {x: 22, y: -5.49999}
+        - {x: 14, y: -8.49999}
+        - {x: -19, y: -8.49999}
+      physicsShape:
+      - - {x: 26, y: 8.50001}
+        - {x: -24, y: 8.50001}
+        - {x: -26, y: 4.50001}
+        - {x: -26, y: -1.499991}
+        - {x: -24, y: -5.49999}
+        - {x: -19, y: -8.49999}
+        - {x: 14, y: -8.49999}
+        - {x: 22, y: -5.49999}
+        - {x: 26, y: -2.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b866e6311f401d9f8b65f536138c6a
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Down_Rest_0
+      rect:
+        serializedVersion: 2
+        x: 226.0761
+        y: 362.0761
+        width: 51.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.4999999, y: -0.4793582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -5.49999}
+        - {x: -26, y: -1.49999}
+        - {x: -26, y: 4.50001}
+        - {x: -24, y: 8.50001}
+        - {x: 26, y: 8.50001}
+        - {x: 26, y: -2.49999}
+        - {x: 22, y: -5.49999}
+        - {x: 14, y: -8.49999}
+        - {x: -19, y: -8.49999}
+      physicsShape:
+      - - {x: 26, y: 8.50001}
+        - {x: -24, y: 8.50001}
+        - {x: -26, y: 4.50001}
+        - {x: -26, y: -1.499991}
+        - {x: -24, y: -5.49999}
+        - {x: -19, y: -8.49999}
+        - {x: 14, y: -8.49999}
+        - {x: 22, y: -5.49999}
+        - {x: 26, y: -2.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b0e02f31594c86b54cfd39c95ffaa6
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_0
+      rect:
+        serializedVersion: 2
+        x: 292.0761
+        y: 359.0761
+        width: 56.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5615681, y: -0.3012929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.49999, y: -8.49999}
+        - {x: -28.49999, y: -4.49999}
+        - {x: -28.49999, y: 2.50001}
+        - {x: -24.49999, y: 8.50001}
+        - {x: 23.50001, y: 8.50001}
+        - {x: 28.50001, y: 3.50001}
+        - {x: 28.50001, y: -0.4999905}
+        - {x: 23.50001, y: -7.49999}
+        - {x: 12.50001, y: -8.49999}
+      physicsShape:
+      - - {x: -24.49999, y: 8.50001}
+        - {x: -28.49999, y: 2.50001}
+        - {x: -28.49999, y: -4.49999}
+        - {x: -22.49999, y: -8.49999}
+        - {x: 12.50001, y: -8.49999}
+        - {x: 23.50001, y: -7.49999}
+        - {x: 28.50001, y: -0.4999905}
+        - {x: 28.50001, y: 3.50001}
+        - {x: 23.50001, y: 8.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979f07263f24601ab96d423719a457c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_1
+      rect:
+        serializedVersion: 2
+        x: 364.0576
+        y: 359.0761
+        width: 57.86625
+        height: 17.91097
+      alignment: 9
+      pivot: {x: 0.5520037, y: -0.283408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.99074, y: -9.031594}
+        - {x: -28.99074, y: -5.031594}
+        - {x: -28.99074, y: 0.9684067}
+        - {x: -23.99074, y: 8.968406}
+        - {x: -4.990738, y: 8.968406}
+        - {x: 9.009262, y: 7.968406}
+        - {x: 22.00926, y: 5.968406}
+        - {x: 29.00926, y: 2.968406}
+        - {x: 29.00926, y: -3.031594}
+        - {x: 25.00926, y: -9.031594}
+      physicsShape:
+      - - {x: 9.009262, y: 7.968406}
+        - {x: -4.990738, y: 8.968404}
+        - {x: -23.99074, y: 8.968404}
+        - {x: -28.99074, y: 0.9684048}
+        - {x: -28.99074, y: -5.031594}
+        - {x: -20.99074, y: -9.031595}
+        - {x: 25.00926, y: -9.031595}
+        - {x: 29.00926, y: -3.031594}
+        - {x: 29.00926, y: 2.968406}
+        - {x: 22.00926, y: 5.968404}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc88d9af3c43f4927d1fa041fabfb3
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_2
+      rect:
+        serializedVersion: 2
+        x: 436.0761
+        y: 359.0761
+        width: 54.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5820455, y: -0.3012929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.49999, y: -4.49999}
+        - {x: -27.49999, y: -3.49999}
+        - {x: -27.49999, y: 5.50001}
+        - {x: -17.49999, y: 8.50001}
+        - {x: 19.50001, y: 8.50001}
+        - {x: 27.50001, y: 3.50001}
+        - {x: 27.50001, y: -0.4999905}
+        - {x: 22.50001, y: -6.49999}
+        - {x: 6.500011, y: -8.49999}
+        - {x: -15.49999, y: -8.49999}
+      physicsShape:
+      - - {x: 19.50001, y: 8.50001}
+        - {x: -17.49999, y: 8.50001}
+        - {x: -27.49999, y: 5.50001}
+        - {x: -27.49999, y: -3.499991}
+        - {x: -25.49999, y: -4.49999}
+        - {x: -15.49999, y: -8.49999}
+        - {x: 6.500011, y: -8.49999}
+        - {x: 22.50001, y: -6.49999}
+        - {x: 27.50001, y: -0.4999905}
+        - {x: 27.50001, y: 3.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08144727624a9186edb2f6e40ebdbc
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_3
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 280.0761
+        width: 55.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5716233, y: -0.3012929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -6.49999}
+        - {x: -28, y: -5.49999}
+        - {x: -28, y: 5.50001}
+        - {x: -19, y: 8.50001}
+        - {x: 23, y: 8.50001}
+        - {x: 28, y: 5.50001}
+        - {x: 28, y: -3.49999}
+        - {x: 18, y: -8.49999}
+        - {x: -16, y: -8.49999}
+      physicsShape:
+      - - {x: -19, y: 8.50001}
+        - {x: -28, y: 5.50001}
+        - {x: -28, y: -5.49999}
+        - {x: -27, y: -6.49999}
+        - {x: -16, y: -8.49999}
+        - {x: 18, y: -8.49999}
+        - {x: 28, y: -3.499991}
+        - {x: 28, y: 5.50001}
+        - {x: 23, y: 8.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a406da4f5869446d8d32c05e6a2b1e97
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_4
+      rect:
+        serializedVersion: 2
+        x: 76.07612
+        y: 280.0761
+        width: 56.84776
+        height: 16.87256
+      alignment: 9
+      pivot: {x: 0.561568, y: -0.30085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -8.512392}
+        - {x: -28.5, y: -8.512392}
+        - {x: -28.5, y: 2.487608}
+        - {x: -25.5, y: 8.487608}
+        - {x: 24.5, y: 8.487608}
+        - {x: 28.5, y: 4.487608}
+        - {x: 28.5, y: -5.512392}
+      physicsShape:
+      - - {x: -25.5, y: 8.487608}
+        - {x: -28.5, y: 2.487608}
+        - {x: -28.5, y: -8.512392}
+        - {x: 27.5, y: -8.512392}
+        - {x: 28.5, y: -5.512392}
+        - {x: 28.5, y: 4.487608}
+        - {x: 24.5, y: 8.487608}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b931864f04534bcb47b40fd91cd0c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_5
+      rect:
+        serializedVersion: 2
+        x: 148.1056
+        y: 280.0761
+        width: 57.81831
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5516319, y: -0.3012929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.01473, y: -8.49999}
+        - {x: -29.01473, y: -5.49999}
+        - {x: -29.01473, y: -1.49999}
+        - {x: -25.01473, y: 3.50001}
+        - {x: -10.01473, y: 7.50001}
+        - {x: -6.014729, y: 8.50001}
+        - {x: 15.98527, y: 8.50001}
+        - {x: 21.98527, y: 6.50001}
+        - {x: 28.98527, y: 3.50001}
+        - {x: 28.98527, y: -0.4999905}
+        - {x: 23.98527, y: -6.49999}
+        - {x: 8.985271, y: -8.49999}
+      physicsShape:
+      - - {x: 21.98527, y: 6.500008}
+        - {x: 15.98527, y: 8.50001}
+        - {x: -6.014729, y: 8.50001}
+        - {x: -10.01473, y: 7.50001}
+        - {x: -25.01473, y: 3.50001}
+        - {x: -29.01473, y: -1.49999}
+        - {x: -29.01473, y: -5.49999}
+        - {x: -21.01473, y: -8.49999}
+        - {x: 8.985271, y: -8.49999}
+        - {x: 23.98527, y: -6.49999}
+        - {x: 28.98527, y: -0.4999905}
+        - {x: 28.98527, y: 3.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b071fd11254f40838d25e9623218c83a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_6
+      rect:
+        serializedVersion: 2
+        x: 220.0761
+        y: 280.0761
+        width: 53.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5928543, y: -0.3012929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -7.49999}
+        - {x: -27, y: -4.49999}
+        - {x: -27, y: 2.50001}
+        - {x: -24, y: 8.50001}
+        - {x: 23, y: 8.50001}
+        - {x: 27, y: 6.50001}
+        - {x: 27, y: -3.49999}
+        - {x: 19, y: -8.49999}
+        - {x: -17, y: -8.49999}
+      physicsShape:
+      - - {x: -24, y: 8.50001}
+        - {x: -27, y: 2.50001}
+        - {x: -27, y: -4.49999}
+        - {x: -21, y: -7.49999}
+        - {x: -17, y: -8.49999}
+        - {x: 19, y: -8.49999}
+        - {x: 27, y: -3.499991}
+        - {x: 27, y: 6.500008}
+        - {x: 23, y: 8.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6269bd3086c45b5b11fcddd76f06424
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_7
+      rect:
+        serializedVersion: 2
+        x: 292.0761
+        y: 280.0761
+        width: 54.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5820455, y: -0.3012929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.49999, y: -8.49999}
+        - {x: -27.49999, y: -5.49999}
+        - {x: -27.49999, y: 2.50001}
+        - {x: -21.49999, y: 8.50001}
+        - {x: 22.50001, y: 8.50001}
+        - {x: 27.50001, y: 3.50001}
+        - {x: 27.50001, y: -0.4999905}
+        - {x: 22.50001, y: -6.49999}
+        - {x: 13.50001, y: -8.49999}
+      physicsShape:
+      - - {x: -21.49999, y: 8.50001}
+        - {x: -27.49999, y: 2.50001}
+        - {x: -27.49999, y: -5.49999}
+        - {x: -20.49999, y: -8.49999}
+        - {x: 13.50001, y: -8.49999}
+        - {x: 22.50001, y: -6.49999}
+        - {x: 27.50001, y: -0.4999905}
+        - {x: 27.50001, y: 3.50001}
+        - {x: 22.50001, y: 8.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9f757e10fa471a884c4fb1548a6276
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Side_Rest_0
+      rect:
+        serializedVersion: 2
+        x: 363.0761
+        y: 280.0761
+        width: 57.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5691472, y: -0.3012929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.99999, y: -8.49999}
+        - {x: -28.99999, y: -7.49999}
+        - {x: -28.99999, y: 3.50001}
+        - {x: -24.99999, y: 8.50001}
+        - {x: 23.00001, y: 8.50001}
+        - {x: 29.00001, y: 3.50001}
+        - {x: 29.00001, y: -0.4999905}
+        - {x: 24.00001, y: -6.49999}
+        - {x: 17.00001, y: -8.49999}
+      physicsShape:
+      - - {x: 23.00001, y: 8.50001}
+        - {x: -24.99999, y: 8.50001}
+        - {x: -28.99999, y: 3.50001}
+        - {x: -28.99999, y: -7.49999}
+        - {x: -16.99999, y: -8.49999}
+        - {x: 17.00001, y: -8.49999}
+        - {x: 24.00001, y: -6.49999}
+        - {x: 29.00001, y: -0.4999905}
+        - {x: 29.00001, y: 3.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a076d76f915e488c9a8f9632bac4fb9f
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Side_Rest_1
+      rect:
+        serializedVersion: 2
+        x: 436.0761
+        y: 280.0761
+        width: 55.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5716235, y: -0.3012929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.99999, y: -6.49999}
+        - {x: -27.99999, y: -5.49999}
+        - {x: -27.99999, y: 5.50001}
+        - {x: -18.99999, y: 8.50001}
+        - {x: 23.00001, y: 8.50001}
+        - {x: 28.00001, y: 5.50001}
+        - {x: 28.00001, y: -3.49999}
+        - {x: 18.00001, y: -8.49999}
+        - {x: -15.99999, y: -8.49999}
+      physicsShape:
+      - - {x: -18.99999, y: 8.50001}
+        - {x: -27.99999, y: 5.50001}
+        - {x: -27.99999, y: -5.49999}
+        - {x: -26.99999, y: -6.49999}
+        - {x: -15.99999, y: -8.49999}
+        - {x: 18.00001, y: -8.49999}
+        - {x: 28.00001, y: -3.499991}
+        - {x: 28.00001, y: 5.50001}
+        - {x: 23.00001, y: 8.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed96d81e8d1543eea30d2abc92fdff66
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Side_Rest_0
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 201.0761
+        width: 55.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5716233, y: -0.3012938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -6.500006}
+        - {x: -28, y: -5.500006}
+        - {x: -28, y: 5.499994}
+        - {x: -19, y: 8.499994}
+        - {x: 23, y: 8.499994}
+        - {x: 28, y: 5.499994}
+        - {x: 28, y: -3.500006}
+        - {x: 18, y: -8.500006}
+        - {x: -16, y: -8.500006}
+      physicsShape:
+      - - {x: -19, y: 8.499994}
+        - {x: -28, y: 5.499994}
+        - {x: -28, y: -5.500006}
+        - {x: -27, y: -6.500006}
+        - {x: -16, y: -8.500006}
+        - {x: 18, y: -8.500006}
+        - {x: 28, y: -3.500007}
+        - {x: 28, y: 5.499994}
+        - {x: 23, y: 8.499994}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06331a0cc94044639aaecdf7cafbb596
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_0
+      rect:
+        serializedVersion: 2
+        x: 80.07612
+        y: 203.0761
+        width: 49.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5601833, y: -0.420004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -8.500006}
+        - {x: -25, y: -2.500006}
+        - {x: -25, y: 8.499994}
+        - {x: 25, y: 8.499994}
+        - {x: 25, y: -2.500006}
+        - {x: 15, y: -8.500006}
+      physicsShape:
+      - - {x: -25, y: 8.499994}
+        - {x: -25, y: -2.500006}
+        - {x: -14, y: -8.500006}
+        - {x: 15, y: -8.500006}
+        - {x: 25, y: -2.500006}
+        - {x: 25, y: 8.499994}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86253983f3374d949dfb44e1da519aee
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_1
+      rect:
+        serializedVersion: 2
+        x: 152.0761
+        y: 203.0761
+        width: 50.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5491663, y: -0.420004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -8.500006}
+        - {x: -25.5, y: -8.500006}
+        - {x: -25.5, y: 2.499994}
+        - {x: -15.5, y: 8.499994}
+        - {x: 15.5, y: 8.499994}
+        - {x: 23.5, y: 7.499994}
+        - {x: 25.5, y: 3.499994}
+        - {x: 25.5, y: -4.500006}
+      physicsShape:
+      - - {x: 15.5, y: 8.499994}
+        - {x: -15.5, y: 8.499994}
+        - {x: -25.5, y: 2.499994}
+        - {x: -25.5, y: -8.500006}
+        - {x: 22.49999, y: -8.500006}
+        - {x: 25.49999, y: -4.500006}
+        - {x: 25.49999, y: 3.499994}
+        - {x: 23.5, y: 7.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636c58f0ec649c19df271381ae921d3
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_2
+      rect:
+        serializedVersion: 2
+        x: 225.0761
+        y: 203.0761
+        width: 51.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5192872, y: -0.420004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -6.500006}
+        - {x: -26.00001, y: -4.500006}
+        - {x: -26.00001, y: 3.499994}
+        - {x: -19, y: 8.499994}
+        - {x: 25, y: 8.499994}
+        - {x: 26, y: 5.499994}
+        - {x: 26, y: -3.500006}
+        - {x: 17, y: -8.500006}
+        - {x: -15, y: -8.500006}
+      physicsShape:
+      - - {x: -19, y: 8.499994}
+        - {x: -26, y: 3.499994}
+        - {x: -26, y: -4.500006}
+        - {x: -25, y: -6.500006}
+        - {x: -15, y: -8.500006}
+        - {x: 17, y: -8.500006}
+        - {x: 26, y: -3.500006}
+        - {x: 26, y: 5.499994}
+        - {x: 25, y: 8.499994}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ca4860153437c95df0e4f332a0918
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_3
+      rect:
+        serializedVersion: 2
+        x: 298.0761
+        y: 203.0761
+        width: 51.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5000002, y: -0.420004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.99999, y: -8.500006}
+        - {x: -25.99999, y: -2.500006}
+        - {x: -25.99999, y: 5.499994}
+        - {x: -18.99999, y: 8.499994}
+        - {x: 19.00001, y: 8.499994}
+        - {x: 25.00001, y: 7.499994}
+        - {x: 26.00001, y: 6.499994}
+        - {x: 26.00001, y: -6.500006}
+        - {x: 19.00001, y: -8.500006}
+      physicsShape:
+      - - {x: -25.99999, y: -2.500006}
+        - {x: -20.99999, y: -8.500006}
+        - {x: 19.00001, y: -8.500006}
+        - {x: 26.00001, y: -6.500006}
+        - {x: 26.00001, y: 6.499994}
+        - {x: 25.00001, y: 7.499992}
+        - {x: 19.00001, y: 8.499994}
+        - {x: -18.99999, y: 8.499994}
+        - {x: -25.99999, y: 5.499994}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cfadbec9b444a29bb36b7c021e9178
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_4
+      rect:
+        serializedVersion: 2
+        x: 371.0761
+        y: 203.0761
+        width: 49.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5000002, y: -0.420004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.99999, y: -8.500006}
+        - {x: -24.99999, y: -5.500006}
+        - {x: -24.99999, y: 2.499994}
+        - {x: -17.99999, y: 8.499994}
+        - {x: 24.00001, y: 8.499994}
+        - {x: 25.00001, y: 6.499994}
+        - {x: 25.00001, y: -5.500006}
+        - {x: 16.00001, y: -8.500006}
+      physicsShape:
+      - - {x: -24.99999, y: -5.500007}
+        - {x: -20.99999, y: -8.500006}
+        - {x: 16.00001, y: -8.500006}
+        - {x: 25.00001, y: -5.500007}
+        - {x: 25.00001, y: 6.499994}
+        - {x: 24.00001, y: 8.499994}
+        - {x: -17.99999, y: 8.499994}
+        - {x: -24.99999, y: 2.499994}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40572ccc151242a9ad1e699652b46546
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_5
+      rect:
+        serializedVersion: 2
+        x: 443.0761
+        y: 203.0761
+        width: 48.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5102361, y: -0.420004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.50001, y: -8.500006}
+        - {x: -24.49999, y: -8.500006}
+        - {x: -24.49999, y: 4.499994}
+        - {x: -12.49999, y: 8.499994}
+        - {x: 9.500013, y: 8.499994}
+        - {x: 21.50001, y: 5.499994}
+        - {x: 24.50001, y: 0.4999943}
+      physicsShape:
+      - - {x: 9.500013, y: 8.499994}
+        - {x: -12.49999, y: 8.499994}
+        - {x: -24.49999, y: 4.499992}
+        - {x: -24.49999, y: -8.500006}
+        - {x: 24.50001, y: -8.500006}
+        - {x: 24.50001, y: 0.4999943}
+        - {x: 21.50001, y: 5.499994}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b944f94ec314c59a27221ef44f3c3b0
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_6
+      rect:
+        serializedVersion: 2
+        x: 10.07612
+        y: 124.0129
+        width: 49.84776
+        height: 16.91097
+      alignment: 9
+      pivot: {x: 0.5200611, y: -0.4146959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -8.468392}
+        - {x: -25, y: -5.468392}
+        - {x: -25, y: 2.531608}
+        - {x: -18, y: 8.531608}
+        - {x: 24, y: 8.531608}
+        - {x: 25, y: 6.531608}
+        - {x: 25, y: -6.468392}
+        - {x: 17, y: -8.468392}
+      physicsShape:
+      - - {x: -25, y: -5.468393}
+        - {x: -21, y: -8.468392}
+        - {x: 17, y: -8.468392}
+        - {x: 25, y: -6.468392}
+        - {x: 25, y: 6.531608}
+        - {x: 24, y: 8.531608}
+        - {x: -18, y: 8.531608}
+        - {x: -25, y: 2.531608}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd38a77d4244cffa237498a38ebb184
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_7
+      rect:
+        serializedVersion: 2
+        x: 79.07612
+        y: 124.0761
+        width: 51.84776
+        height: 16.84776
+      alignment: 9
+      pivot: {x: 0.5578618, y: -0.4200035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -8.499998}
+        - {x: -26, y: -2.499998}
+        - {x: -26, y: 2.500002}
+        - {x: -25, y: 5.500002}
+        - {x: -5.999996, y: 8.500002}
+        - {x: 17, y: 8.500002}
+        - {x: 24, y: 5.500002}
+        - {x: 26, y: 1.500002}
+        - {x: 26, y: -2.499998}
+        - {x: 20, y: -8.499998}
+      physicsShape:
+      - - {x: 17, y: 8.500002}
+        - {x: -5.999996, y: 8.500002}
+        - {x: -25, y: 5.500002}
+        - {x: -26, y: 2.500002}
+        - {x: -26, y: -2.499998}
+        - {x: -16.99999, y: -8.499998}
+        - {x: 20, y: -8.499998}
+        - {x: 26, y: -2.499998}
+        - {x: 26, y: 1.500002}
+        - {x: 24, y: 5.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7306134794ee9b478b331f66c1684
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Up_Rest_0
+      rect:
+        serializedVersion: 2
+        x: 151.0761
+        y: 123.0129
+        width: 54.84776
+        height: 17.93577
+      alignment: 9
+      pivot: {x: 0.5273483, y: -0.3352468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.50001, y: -7.980794}
+        - {x: -27.50001, y: -1.980794}
+        - {x: -27.50001, y: 9.019206}
+        - {x: 27.49999, y: 9.019206}
+        - {x: 27.49999, y: -3.980794}
+        - {x: 15.49999, y: -8.980794}
+        - {x: -13.50001, y: -8.980794}
+      physicsShape:
+      - - {x: -27.50001, y: 9.019206}
+        - {x: -27.50001, y: -1.980794}
+        - {x: -16.50001, y: -7.980794}
+        - {x: -13.5, y: -8.980794}
+        - {x: 15.49999, y: -8.980794}
+        - {x: 27.49999, y: -3.980794}
+        - {x: 27.49999, y: 9.019206}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264bd372870e45fcbe8a6f82dc58b2c9
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Up_Rest_1
+      rect:
+        serializedVersion: 2
+        x: 224.0761
+        y: 123.0129
+        width: 52.84776
+        height: 17.93577
+      alignment: 9
+      pivot: {x: 0.5283834, y: -0.3352468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -8.980794}
+        - {x: -26.5, y: -4.980794}
+        - {x: -26.5, y: 9.019206}
+        - {x: 26.5, y: 9.019206}
+        - {x: 26.5, y: -2.980794}
+        - {x: 16.5, y: -8.980794}
+      physicsShape:
+      - - {x: -26.5, y: -4.980795}
+        - {x: -16.5, y: -8.980794}
+        - {x: 16.5, y: -8.980794}
+        - {x: 26.5, y: -2.980794}
+        - {x: 26.5, y: 3.019206}
+        - {x: 23.5, y: 6.019206}
+        - {x: 15.5, y: 9.019206}
+        - {x: -8.500001, y: 9.019206}
+        - {x: -26.5, y: 7.019206}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5878a031d22342d99a9f4907de7877c8
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Up_Rest_0
+      rect:
+        serializedVersion: 2
+        x: 296.0761
+        y: 123.0129
+        width: 52.84776
+        height: 17.93577
+      alignment: 9
+      pivot: {x: 0.5283836, y: -0.3352468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.49999, y: -8.980794}
+        - {x: -26.49999, y: -4.980794}
+        - {x: -26.49999, y: 9.019206}
+        - {x: 26.50001, y: 9.019206}
+        - {x: 26.50001, y: -2.980794}
+        - {x: 16.50001, y: -8.980794}
+      physicsShape:
+      - - {x: -26.49999, y: -4.980795}
+        - {x: -16.49999, y: -8.980794}
+        - {x: 16.50001, y: -8.980794}
+        - {x: 26.50001, y: -2.980794}
+        - {x: 26.50001, y: 3.019206}
+        - {x: 23.50001, y: 6.019206}
+        - {x: 15.50001, y: 9.019206}
+        - {x: -8.49999, y: 9.019206}
+        - {x: -26.49999, y: 7.019206}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b840a95504681aaebde065a247c1c
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 365.0761
+        y: 125.0761
+        width: 56.91096
+        height: 11.84776
+      alignment: 9
+      pivot: {x: 0.5433731, y: -0.6816579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.4684, y: -5.999998}
+        - {x: -28.5316, y: -5.999998}
+        - {x: -28.5316, y: 4.000002}
+        - {x: -20.5316, y: 6.000002}
+        - {x: 23.4684, y: 6.000002}
+        - {x: 28.4684, y: 4.000002}
+        - {x: 28.4684, y: 0.000001907349}
+        - {x: 26.4684, y: -2.999998}
+      physicsShape:
+      - - {x: 23.4684, y: 6}
+        - {x: -20.53159, y: 6}
+        - {x: -28.5316, y: 4.000002}
+        - {x: -28.5316, y: -5.999998}
+        - {x: 22.4684, y: -5.999998}
+        - {x: 26.4684, y: -2.999998}
+        - {x: 28.4684, y: 0.000001907349}
+        - {x: 28.4684, y: 4.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c9ef326774baca89336a979b229cb
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 436.0761
+        y: 125.0761
+        width: 58.91096
+        height: 11.84776
+      alignment: 9
+      pivot: {x: 0.5419006, y: -0.6816579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.53159, y: -5.999998}
+        - {x: -29.53159, y: -2.999998}
+        - {x: -29.53159, y: 6.000002}
+        - {x: 29.46841, y: 6.000002}
+        - {x: 29.46841, y: -1.999998}
+        - {x: 21.46841, y: -5.999998}
+      physicsShape:
+      - - {x: -29.53159, y: 6}
+        - {x: -29.53159, y: -2.999998}
+        - {x: -25.53159, y: -5.999998}
+        - {x: 21.46841, y: -5.999998}
+        - {x: 29.4684, y: -1.999998}
+        - {x: 29.4684, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa315a5cb9c487aa63a39d3fea85a0c
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 46.07612
+        width: 56.91096
+        height: 11.84776
+      alignment: 9
+      pivot: {x: 0.543373, y: -0.6816579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.4684, y: -5.999998}
+        - {x: -28.5316, y: -5.999998}
+        - {x: -28.5316, y: 4.000002}
+        - {x: -20.5316, y: 6.000002}
+        - {x: 23.4684, y: 6.000002}
+        - {x: 28.4684, y: 4.000002}
+        - {x: 28.4684, y: 0.000001907349}
+        - {x: 26.4684, y: -2.999998}
+      physicsShape:
+      - - {x: 23.4684, y: 6}
+        - {x: -20.5316, y: 6}
+        - {x: -28.5316, y: 4.000002}
+        - {x: -28.5316, y: -5.999998}
+        - {x: 22.4684, y: -5.999998}
+        - {x: 26.4684, y: -2.999998}
+        - {x: 28.4684, y: 0.000001907349}
+        - {x: 28.4684, y: 4.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6304d8ab1549e8b2ef805a6f7c5505
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 77.07612
+        y: 46.02675
+        width: 55.91096
+        height: 11.89713
+      alignment: 9
+      pivot: {x: 0.5530915, y: -0.6746795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.0316, y: -5.975313}
+        - {x: -28.0316, y: -3.975313}
+        - {x: -28.0316, y: 2.024687}
+        - {x: -27.0316, y: 4.024687}
+        - {x: -17.0316, y: 6.024687}
+        - {x: 22.9684, y: 6.024687}
+        - {x: 27.9684, y: 1.024688}
+        - {x: 27.9684, y: -2.975313}
+        - {x: 26.9684, y: -4.975313}
+        - {x: 19.9684, y: -5.975313}
+      physicsShape:
+      - - {x: -17.0316, y: 6.024685}
+        - {x: -27.0316, y: 4.024687}
+        - {x: -28.0316, y: 2.024687}
+        - {x: -28.0316, y: -3.975314}
+        - {x: -23.0316, y: -5.975313}
+        - {x: 19.9684, y: -5.975313}
+        - {x: 26.9684, y: -4.975313}
+        - {x: 27.9684, y: -2.975313}
+        - {x: 27.9684, y: 1.024686}
+        - {x: 22.9684, y: 6.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329f1fc812a4af9b2f6aaa7d3f77ebc
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Intro_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 148.0761
+        y: 46.07612
+        width: 57.91096
+        height: 11.84776
+      alignment: 9
+      pivot: {x: 0.5512578, y: -0.6816579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.03161, y: -5.999998}
+        - {x: -29.03161, y: -3.999998}
+        - {x: -29.03161, y: 5.000002}
+        - {x: -22.03161, y: 6.000002}
+        - {x: 25.96839, y: 6.000002}
+        - {x: 28.96839, y: 2.000002}
+        - {x: 28.96839, y: -2.999998}
+        - {x: 26.96839, y: -4.999998}
+        - {x: 16.96839, y: -5.999998}
+      physicsShape:
+      - - {x: -22.03161, y: 6}
+        - {x: -29.03161, y: 5.000002}
+        - {x: -29.03161, y: -3.999999}
+        - {x: -24.03161, y: -5.999998}
+        - {x: 16.96839, y: -5.999998}
+        - {x: 26.96839, y: -4.999998}
+        - {x: 28.96839, y: -2.999998}
+        - {x: 28.96839, y: 2.000002}
+        - {x: 25.96839, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e7c045c2e54f9783df5e94e9fb04b4
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 220.0761
+        y: 46.07612
+        width: 58.91096
+        height: 11.84776
+      alignment: 9
+      pivot: {x: 0.5419004, y: -0.6816579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.53161, y: -5.999998}
+        - {x: -29.53161, y: -2.999998}
+        - {x: -29.53161, y: 6.000002}
+        - {x: 29.4684, y: 6.000002}
+        - {x: 29.4684, y: -1.999998}
+        - {x: 21.46839, y: -5.999998}
+      physicsShape:
+      - - {x: -29.53161, y: 6}
+        - {x: -29.53161, y: -2.999998}
+        - {x: -25.53161, y: -5.999998}
+        - {x: 21.46839, y: -5.999998}
+        - {x: 29.46839, y: -1.999998}
+        - {x: 29.46839, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a57c8b6b55645d7a948e653d2acb834
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 293.0761
+        y: 46.07612
+        width: 56.91096
+        height: 11.84776
+      alignment: 9
+      pivot: {x: 0.5433731, y: -0.6816579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.4684, y: -5.999998}
+        - {x: -28.5316, y: -5.999998}
+        - {x: -28.5316, y: 4.000002}
+        - {x: -20.5316, y: 6.000002}
+        - {x: 23.4684, y: 6.000002}
+        - {x: 28.4684, y: 4.000002}
+        - {x: 28.4684, y: 0.000001907349}
+        - {x: 26.4684, y: -2.999998}
+      physicsShape:
+      - - {x: 23.4684, y: 6}
+        - {x: -20.53159, y: 6}
+        - {x: -28.5316, y: 4.000002}
+        - {x: -28.5316, y: -5.999998}
+        - {x: 22.4684, y: -5.999998}
+        - {x: 26.4684, y: -2.999998}
+        - {x: 28.4684, y: 0.000001907349}
+        - {x: 28.4684, y: 4.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0eb9fc9ff4688bdb93a274ef1e7f0
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 365.0761
+        y: 46.02675
+        width: 55.91096
+        height: 11.89713
+      alignment: 9
+      pivot: {x: 0.5530916, y: -0.6746795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.0316, y: -5.975313}
+        - {x: -28.0316, y: -3.975313}
+        - {x: -28.0316, y: 2.024687}
+        - {x: -27.0316, y: 4.024687}
+        - {x: -17.0316, y: 6.024687}
+        - {x: 22.9684, y: 6.024687}
+        - {x: 27.9684, y: 1.024688}
+        - {x: 27.9684, y: -2.975313}
+        - {x: 26.9684, y: -4.975313}
+        - {x: 19.9684, y: -5.975313}
+      physicsShape:
+      - - {x: -17.03159, y: 6.024685}
+        - {x: -27.03159, y: 4.024687}
+        - {x: -28.0316, y: 2.024687}
+        - {x: -28.0316, y: -3.975314}
+        - {x: -23.0316, y: -5.975313}
+        - {x: 19.9684, y: -5.975313}
+        - {x: 26.9684, y: -4.975313}
+        - {x: 27.9684, y: -2.975313}
+        - {x: 27.9684, y: 1.024686}
+        - {x: 22.9684, y: 6.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cdb451d0594b78925a7b1cb974a006
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkCyclesWIPshadow_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 436.0761
+        y: 46.07612
+        width: 57.91096
+        height: 11.84776
+      alignment: 9
+      pivot: {x: 0.5512581, y: -0.6816579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.0316, y: -5.999998}
+        - {x: -29.0316, y: -3.999998}
+        - {x: -29.0316, y: 5.000002}
+        - {x: -22.0316, y: 6.000002}
+        - {x: 25.9684, y: 6.000002}
+        - {x: 28.9684, y: 2.000002}
+        - {x: 28.9684, y: -2.999998}
+        - {x: 26.9684, y: -4.999998}
+        - {x: 16.9684, y: -5.999998}
+      physicsShape:
+      - - {x: -22.0316, y: 6}
+        - {x: -29.0316, y: 5.000002}
+        - {x: -29.0316, y: -3.999999}
+        - {x: -24.03159, y: -5.999998}
+        - {x: 16.9684, y: -5.999998}
+        - {x: 26.9684, y: -4.999998}
+        - {x: 28.9684, y: -2.999998}
+        - {x: 28.9684, y: 2.000002}
+        - {x: 25.9684, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0799fc833848a3adebe36672e8a870
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WalkCyclesWIPshadow_Side_5: 21300032
+      WalkCyclesWIPshadow_Down_0: 21300000
+      WalkCyclesWIPshadow_Intro_Side_Rest_1: 21300040
+      WalkCyclesWIPshadow_Idle_0: 21300076
+      WalkCyclesWIPshadow_Up_1: 21300046
+      WalkCyclesWIPshadow_Intro_Idle_0: 21300066
+      WalkCyclesWIPshadow_Side_4: 21300030
+      WalkCyclesWIPshadow_Down_4: 21300008
+      WalkCyclesWIPshadow_Side_0: 21300022
+      WalkCyclesWIPshadow_Intro_Idle_3: 21300072
+      WalkCyclesWIPshadow_Up_Rest_0: 21300064
+      WalkCyclesWIPshadow_Side_6: 21300034
+      WalkCyclesWIPshadow_Down_6: 21300012
+      WalkCyclesWIPshadow_Up_2: 21300048
+      WalkCyclesWIPshadow_Intro_Idle_4: 21300074
+      WalkCyclesWIPshadow_Up_0: 21300044
+      WalkCyclesWIPshadow_Intro_Up_Rest_1: 21300062
+      WalkCyclesWIPshadow_Side_Rest_0: 21300042
+      WalkCyclesWIPshadow_Up_5: 21300054
+      WalkCyclesWIPshadow_Idle_3: 21300082
+      WalkCyclesWIPshadow_Intro_Idle_1: 21300068
+      WalkCyclesWIPshadow_Down_7: 21300014
+      WalkCyclesWIPshadow_Intro_DownRest_1: 21300018
+      WalkCyclesWIPshadow_Down_5: 21300010
+      WalkCyclesWIPshadow_Side_3: 21300028
+      WalkCyclesWIPshadow_Down_2: 21300004
+      WalkCyclesWIPshadow_Side_2: 21300026
+      WalkCyclesWIPshadow_Side_7: 21300036
+      WalkCyclesWIPshadow_Intro_Side_Rest_0: 21300038
+      WalkCyclesWIPshadow_Up_7: 21300058
+      WalkCyclesWIPshadow_Side_1: 21300024
+      WalkCyclesWIPshadow_Idle_1: 21300078
+      WalkCyclesWIPshadow_Down_1: 21300002
+      WalkCyclesWIPshadow_Intro_Up_Rest_0: 21300060
+      WalkCyclesWIPshadow_Up_3: 21300050
+      WalkCyclesWIPshadow_Intro_Idle_2: 21300070
+      WalkCyclesWIPshadow_Up_6: 21300056
+      WalkCyclesWIPshadow_Down_3: 21300006
+      WalkCyclesWIPshadow_Intro_DownRest_0: 21300016
+      WalkCyclesWIPshadow_Idle_2: 21300080
+      WalkCyclesWIPshadow_Down_Rest_0: 21300020
+      WalkCyclesWIPshadow_Up_4: 21300052
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
