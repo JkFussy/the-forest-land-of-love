@@ -1,61 +1,61 @@
 fileFormatVersion: 2
-guid: 157f4bebe70c34f47ba29817db7f3036
+guid: ec4ed5279224ebf4aa72f82abff9889d
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 21300000
-    second: npc_status_SandTimer_Spin_0
+    second: npc_status_SandTimerOutline_Spin_0
   - first:
       213: 21300002
-    second: npc_status_SandTimer_Spin_1
+    second: npc_status_SandTimerOutline_Spin_1
   - first:
       213: 21300004
-    second: npc_status_SandTimer_Spin_2
+    second: npc_status_SandTimerOutline_Spin_2
   - first:
       213: 21300006
-    second: npc_status_SandTimer_Spin_3
+    second: npc_status_SandTimerOutline_Spin_3
   - first:
       213: 21300008
-    second: npc_status_SandTimer_Spin_4
+    second: npc_status_SandTimerOutline_Spin_4
   - first:
       213: 21300010
-    second: npc_status_SandTimer_Spin_5
+    second: npc_status_SandTimerOutline_Spin_5
   - first:
       213: 21300012
-    second: npc_status_SandTimer_Spin_6
+    second: npc_status_SandTimerOutline_Spin_6
   - first:
       213: 21300014
-    second: npc_status_SandTimer_Spin_7
+    second: npc_status_SandTimerOutline_Spin_7
   - first:
       213: 21300016
-    second: npc_status_SandTimer_Spin_8
+    second: npc_status_SandTimerOutline_Spin_8
   - first:
       213: 21300018
-    second: npc_status_SandTimer_Spin_9
+    second: npc_status_SandTimerOutline_Spin_9
   - first:
       213: 21300020
-    second: npc_status_SandTimer_Spin_10
+    second: npc_status_SandTimerOutline_Spin_10
   - first:
       213: 21300022
-    second: npc_status_SandTimer_Spin_11
+    second: npc_status_SandTimerOutline_Spin_11
   - first:
       213: 21300024
-    second: npc_status_SandTimer_Spin_12
+    second: npc_status_SandTimerOutline_Spin_12
   - first:
       213: 21300026
-    second: npc_status_SandTimer_Spin_13
+    second: npc_status_SandTimerOutline_Spin_13
   - first:
       213: 21300028
-    second: npc_status_SandTimer_Spin_14
+    second: npc_status_SandTimerOutline_Spin_14
   - first:
       213: 21300030
-    second: npc_status_SandTimer_Spin_15
+    second: npc_status_SandTimerOutline_Spin_15
   - first:
       213: 21300032
-    second: npc_status_SandTimer_Spin_16
+    second: npc_status_SandTimerOutline_Spin_16
   - first:
       213: 21300034
-    second: npc_status_SandTimer_Spin_17
+    second: npc_status_SandTimerOutline_Spin_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -134,7 +134,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: npc_status_SandTimer_0
+      name: npc_status_SandTimerOutline_0
       rect:
         serializedVersion: 2
         x: 0
@@ -148,14 +148,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d23b2e4750368f4a84ecd5ed0e21ba9
-      internalID: -1695782033
+      spriteID: 7d5aa8aeda9c0944c94027554edbc99f
+      internalID: -897713778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_1
+      name: npc_status_SandTimerOutline_1
       rect:
         serializedVersion: 2
         x: 35
@@ -169,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 980938b269e440244b27364101f92312
-      internalID: -1899521401
+      spriteID: f571df418d3d8b844a6c69be096f1ef7
+      internalID: -161659329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_2
+      name: npc_status_SandTimerOutline_2
       rect:
         serializedVersion: 2
         x: 70
@@ -190,14 +190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a7373d8140a332498aece0b661a14cf
-      internalID: -826970243
+      spriteID: 2fdbea1a28531054982de8572518ee88
+      internalID: 320404479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_3
+      name: npc_status_SandTimerOutline_3
       rect:
         serializedVersion: 2
         x: 105
@@ -211,14 +211,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 260c64390db32ad4ea296a902aecb527
-      internalID: -976784706
+      spriteID: a06bc887288009646aa1e355e2f7fcc9
+      internalID: -1968529600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_4
+      name: npc_status_SandTimerOutline_4
       rect:
         serializedVersion: 2
         x: 140
@@ -232,14 +232,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 422e225cb2fe95247baddd404a1ddb91
-      internalID: 1447849808
+      spriteID: 4af46d073b89797428333df7aaa8fc43
+      internalID: 1883298895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_5
+      name: npc_status_SandTimerOutline_5
       rect:
         serializedVersion: 2
         x: 175
@@ -253,14 +253,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35b280d3bdc513d4a95c39036574f512
-      internalID: 1582867704
+      spriteID: 45e5f03acd5081a4cb0878deab60e734
+      internalID: 193514638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_6
+      name: npc_status_SandTimerOutline_6
       rect:
         serializedVersion: 2
         x: 210
@@ -274,14 +274,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc567e8f2d8ea0441805cc9c1caf0d5a
-      internalID: -1204325075
+      spriteID: e2a913898cff70848b93b6b1afd9d433
+      internalID: 1617913180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_7
+      name: npc_status_SandTimerOutline_7
       rect:
         serializedVersion: 2
         x: 0
@@ -295,14 +295,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84cd3296ffecc3343bfed6d8a0f51cf7
-      internalID: -921452686
+      spriteID: 18a97d5c40cccf14098fd9e6d60ae2f9
+      internalID: 794047436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_8
+      name: npc_status_SandTimerOutline_8
       rect:
         serializedVersion: 2
         x: 35
@@ -316,14 +316,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95e9c82fd46c44e47b3e27ba17feddef
-      internalID: 1606838626
+      spriteID: c711f940da51cb949a3267cf20f9bb2b
+      internalID: 1036532598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_9
+      name: npc_status_SandTimerOutline_9
       rect:
         serializedVersion: 2
         x: 70
@@ -337,14 +337,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad3799bd03ef7b74394673d880542fc2
-      internalID: -693781603
+      spriteID: e3e3d8a75c60e32479df939991c726b0
+      internalID: -1983994807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_10
+      name: npc_status_SandTimerOutline_10
       rect:
         serializedVersion: 2
         x: 105
@@ -358,14 +358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 736b4c42f4bfdf249af4c3bd3c53877d
-      internalID: 990819770
+      spriteID: 55f290c0af542e24999ccb071a9c906a
+      internalID: -945792481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_11
+      name: npc_status_SandTimerOutline_11
       rect:
         serializedVersion: 2
         x: 140
@@ -379,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9bd08b9721ceec4fa73a37c13f6ae76
-      internalID: 1388416939
+      spriteID: 42a3a1b5663cf52429f0fbebe5f23367
+      internalID: -1125171226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_12
+      name: npc_status_SandTimerOutline_12
       rect:
         serializedVersion: 2
         x: 175
@@ -400,14 +400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b2ec5db630652448a41f547733609b0
-      internalID: -1319756406
+      spriteID: ba7435d38d36e82429f19437ec000991
+      internalID: 1944399499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_13
+      name: npc_status_SandTimerOutline_13
       rect:
         serializedVersion: 2
         x: 210
@@ -421,14 +421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9e73403bdd3a69418ecb549af2d54a2
-      internalID: 690830622
+      spriteID: 38d2d0ab63c8ff843b96b52b25bfb92f
+      internalID: 1881738052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_14
+      name: npc_status_SandTimerOutline_14
       rect:
         serializedVersion: 2
         x: 0
@@ -442,14 +442,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fae161e98082ba4cb95071d9efc7aad
-      internalID: 161304785
+      spriteID: f88a0a360bca5b443997c3cceb31547b
+      internalID: -132733366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_15
+      name: npc_status_SandTimerOutline_15
       rect:
         serializedVersion: 2
         x: 35
@@ -463,14 +463,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 988e35b01b691d34e974bdd225d13f7c
-      internalID: 1111768880
+      spriteID: ff159e3f04feb48499f1b09c897c73e1
+      internalID: -974189906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_16
+      name: npc_status_SandTimerOutline_16
       rect:
         serializedVersion: 2
         x: 70
@@ -484,14 +484,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d20d96718d884bc42b9a0ad64845de8b
-      internalID: -1921159129
+      spriteID: 7847e3496acebc548aa1eb203aa9f7aa
+      internalID: -1388955106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_status_SandTimer_17
+      name: npc_status_SandTimerOutline_17
       rect:
         serializedVersion: 2
         x: 105
@@ -505,8 +505,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd54bee66d679ed42bd034a37fb0c191
-      internalID: 1880863916
+      spriteID: c6217846900b5724bbf1414703dc8248
+      internalID: 161898354
       vertices: []
       indices: 
       edges: []
@@ -514,7 +514,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 151831fec29cee945a096d7560b50171
+    spriteID: 1927c028afcaacd44b646b5db032b10f
     internalID: 0
     vertices: []
     indices: 
@@ -522,24 +522,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      npc_status_SandTimer_5: 1582867704
-      npc_status_SandTimer_10: 990819770
-      npc_status_SandTimer_13: 690830622
-      npc_status_SandTimer_1: -1899521401
-      npc_status_SandTimer_12: -1319756406
-      npc_status_SandTimer_2: -826970243
-      npc_status_SandTimer_4: 1447849808
-      npc_status_SandTimer_9: -693781603
-      npc_status_SandTimer_0: -1695782033
-      npc_status_SandTimer_6: -1204325075
-      npc_status_SandTimer_7: -921452686
-      npc_status_SandTimer_14: 161304785
-      npc_status_SandTimer_15: 1111768880
-      npc_status_SandTimer_16: -1921159129
-      npc_status_SandTimer_3: -976784706
-      npc_status_SandTimer_8: 1606838626
-      npc_status_SandTimer_17: 1880863916
-      npc_status_SandTimer_11: 1388416939
+      npc_status_SandTimerOutline_7: 794047436
+      npc_status_SandTimerOutline_12: 1944399499
+      npc_status_SandTimerOutline_5: 193514638
+      npc_status_SandTimerOutline_2: 320404479
+      npc_status_SandTimerOutline_17: 161898354
+      npc_status_SandTimerOutline_13: 1881738052
+      npc_status_SandTimerOutline_0: -897713778
+      npc_status_SandTimerOutline_6: 1617913180
+      npc_status_SandTimerOutline_16: -1388955106
+      npc_status_SandTimerOutline_4: 1883298895
+      npc_status_SandTimerOutline_9: -1983994807
+      npc_status_SandTimerOutline_1: -161659329
+      npc_status_SandTimerOutline_8: 1036532598
+      npc_status_SandTimerOutline_14: -132733366
+      npc_status_SandTimerOutline_11: -1125171226
+      npc_status_SandTimerOutline_10: -945792481
+      npc_status_SandTimerOutline_3: -1968529600
+      npc_status_SandTimerOutline_15: -974189906
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
