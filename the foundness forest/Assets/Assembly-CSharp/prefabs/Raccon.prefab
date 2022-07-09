@@ -101,7 +101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   unitName: Raccon
   unitLevel: 1
-  damage: 8
+  damage: 9
   maxHP: 60
   currentHP: 60
 --- !u!95 &6652206916405386604
